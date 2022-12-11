@@ -1,0 +1,14 @@
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\bin\Debug\netcoreapp3.1\Acount.exe
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\bin\Debug\netcoreapp3.1\Acount.deps.json
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\bin\Debug\netcoreapp3.1\Acount.runtimeconfig.json
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\bin\Debug\netcoreapp3.1\Acount.runtimeconfig.dev.json
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\bin\Debug\netcoreapp3.1\Acount.dll
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\bin\Debug\netcoreapp3.1\Acount.pdb
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.csproj.AssemblyReference.cache
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.AssemblyInfoInputs.cache
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.AssemblyInfo.cs
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.csproj.CoreCompileInputs.cache
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.dll
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.pdb
+D:\ProjetosCouses\ProjetosTreino\Acount\Acount\obj\Debug\netcoreapp3.1\Acount.genruntimeconfig.cache
